@@ -8,20 +8,13 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 - [Tableau](#tableau)
 
 
-## SQL
-
-
-
-
-
-
-
+## 🛢️ SQL
 
 
 - ### 🏚️ Affordable Housing Production  
     Data Exploration and Analysis in SQL for Housing New York plan and the Housing Our Neighbors: A Blueprint for Housing & Homelessness plan.   🔗 [View Project](https://github.com/theodorosmalezidis/Affordable_Housing_Production)  
 
-- ### 🛢️ Data Jobs Analysis  
+- ### 🖥️ Data Jobs Analysis  
     A project designed as a Guide for the dynamic world of Data Analyst roles, uncovering key insights about the current job market through the power of SQL.    🔗 [View Project](https://github.com/theodorosmalezidis/Project_Data_Jobs_Analysis)  
 
 - ### 👥 Students Perfomance  
@@ -33,4 +26,7 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 - ### 🧠 Depression Data Analysis  
      A Data driven Analysis of a synthetic Dataset on Clinical Depression, providing valuable insights into the complex relationships between mental health, lifestyle choices, and socio-economic conditions using SQL.    🔗 [View Project](https://github.com/theodorosmalezidis/Depression_Data_Analysis)  
 
+
+
+## 📊 Tableau
 
