@@ -2,82 +2,35 @@
 
 Every data analyst starts somewhere, and this portfolio reflects my ongoing learning process.
 
-## 🔗 Sections
+# 🔗 Sections
 
 - [SQL](#sql)
-- [Tableau](#python)
+- [Tableau](#tableau)
 
 
 ## SQL
 
-<details>
-  <summary>📌 COVID-19 Data Analysis</summary>
-  **Description:** Analyzed COVID-19 cases, deaths, and vaccinations using SQL queries.  
-  🔗 [View Project](https://your-link.com)
-</details>
-
-----------------------------
 
 
 
-### 🌟 [COVID-19 Data Analysis](#)
-A comprehensive analysis of COVID-19 trends using SQL, focusing on vaccinations, cases, and deaths.
-
-
----------------------------------------------------------------------------------------
 
 
 
-## My Projects Timeline
-
-- **[COVID-19 Data Analysis](https://your-link.com)**  
-  A SQL-based analysis of COVID-19 trends.
-
-- **Sales Data Exploration**  
-   SQL analysis to uncover insights in sales trends.
-
-- **HR Employee Retention**  
-  Exploring factors affecting employee turnover with SQL.
-
-------------------------------------
-
-<a href="#project-link" class="button">View COVID-19 Analysis</a>
-<a href="#project-link" class="button">View Sales Data</a>
-
-----------
 
 
-## My Projects
+- ### 🏚️ Affordable Housing Production  
+    Data Exploration and Analysis in SQL for Housing New York plan and the Housing Our Neighbors: A Blueprint for Housing & Homelessness plan.   🔗 [View Project](https://github.com/theodorosmalezidis/Affordable_Housing_Production)  
 
-### 📊 COVID-19 Data Analysis  
-**Description:** Analyzed COVID-19 cases, deaths, and vaccinations using SQL to identify global trends.  
-🔗 [View Project](#)  
+- ### 🛢️ Data Jobs Analysis  
+    A project designed as a Guide for the dynamic world of Data Analyst roles, uncovering key insights about the current job market through the power of SQL.    🔗 [View Project](https://github.com/theodorosmalezidis/Project_Data_Jobs_Analysis)  
 
-### 💼 Sales Performance Dashboard  
-**Description:** Built a Tableau dashboard to track sales, customer segments, and revenue growth.  
-🔗 [View Dashboard](#)  
+- ### 👥 Students Perfomance  
+     Cleaning and Preparing comprehensive Data on 2,392 High School Students Using SQL.    🔗 [View Project](https://github.com/theodorosmalezidis/students_perfomance)  
 
-### 👥 HR Employee Retention  
-**Description:** Explored employee turnover trends with SQL, uncovering key factors affecting retention.  
-🔗 [View Project](#)  
+- ### 🧪 Covid-19 Data Exploration  
+     This project explores the global impact of COVID-19 through comprehensive SQL-based data analysis, uncovering trends and insights into cases, vaccinations, mortalities, and their broader implications.    🔗 [View Project](https://github.com/theodorosmalezidis/Project_Covid_Data_Exploration)  
+
+- ### 🧠 Depression Data Analysis  
+     A Data driven Analysis of a synthetic Dataset on Clinical Depression, providing valuable insights into the complex relationships between mental health, lifestyle choices, and socio-economic conditions using SQL.    🔗 [View Project](https://github.com/theodorosmalezidis/Depression_Data_Analysis)  
 
 
-<h2>My Projects</h2>
-
-<div style="border:1px solid #ccc; padding:10px; margin:10px; border-radius:8px;">
-  <h3>📊 COVID-19 Data Analysis</h3>
-  <p><strong>Description:</strong> SQL-based analysis of COVID cases, deaths & vaccinations.</p>
-  <a href="#">View Project</a>
-</div>
-
-<div style="border:1px solid #ccc; padding:10px; margin:10px; border-radius:8px;">
-  <h3>💼 Sales Performance Dashboard</h3>
-  <p><strong>Description:</strong> Tableau dashboard tracking sales trends.</p>
-  <a href="#">View Dashboard</a>
-</div>
-
-<div style="border:1px solid #ccc; padding:10px; margin:10px; border-radius:8px;">
-  <h3>👥 HR Employee Retention</h3>
-  <p><strong>Description:</strong> SQL queries exploring workforce retention.</p>
-  <a href="#">View Project</a>
-</div>
