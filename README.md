@@ -8,7 +8,7 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 - [Tableau](#tableau)
 
 
-## 🛢️ SQL
+## 🛢️ <a id="sql"></a> SQL
 
 
 - ### 🏚️ Affordable Housing Production  
@@ -28,5 +28,5 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 
 
 
-## 📊 Tableau
+## 📊 <a id="tableau"></a> Tableau
 
