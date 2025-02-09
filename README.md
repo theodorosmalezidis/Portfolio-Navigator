@@ -46,8 +46,10 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 
 ## My Projects
 
-| Project | Link |
-|---------|------|
-| <img src="IMAGES/covid1.jpg" alt="COVID-19 Data" width="100" height="75" /> | [COVID](#) |
-| <img src="IMAGES/data.jpg" alt="Sales Data" width="100" height="75" /> | [DATA JOBS](#) |
-| <img src="IMAGES/students.jpg" alt="HR Analysis" width="100" height="75" /> | [STUDENTS](#) |
+
+ <img src="IMAGES/covid1.jpg" alt="COVID-19 Data" width="300" height="225" />  [COVID](#) 
+ | <hr> |
+ <img src="IMAGES/data.jpg" alt="Sales Data" width="300" height="225" />   [DATA JOBS](#) 
+ | <hr> |
+ <img src="IMAGES/students.jpg" alt="HR Analysis" width="300" height="225" /> | [STUDENTS](#) 
+ | <hr> |
