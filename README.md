@@ -44,3 +44,10 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 <a href="#project-link" class="button">View COVID-19 Analysis</a>
 <a href="#project-link" class="button">View Sales Data</a>
 
+## My Projects
+
+| Project | Link |
+|---------|------|
+| <img src="IMAGES/covid1.jpg" alt="COVID-19 Data" width="100" height="75" /> | [COVID](#) |
+| <img src="IMAGES/data.jpg" alt="Sales Data" width="100" height="75" /> | [DATA JOBS](#) |
+| <img src="IMAGES/students.jpg" alt="HR Analysis" width="100" height="75" /> | [STUDENTS](#) |
