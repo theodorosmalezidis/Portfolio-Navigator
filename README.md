@@ -30,3 +30,5 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 
 ## 📊 <a id="tableau"></a> Tableau
 
+### 🧠 Super Store Dashboard  
+     A Data driven Analysis of a synthetic Dataset on Clinical Depression, providing valuable insights into the complex relationships between mental health, lifestyle choices, and socio-economic conditions using SQL.    🔗 [View Dashboard](https://public.tableau.com/app/profile/theodorosmalezidis7413/viz/SuperStoreDashboard_17390157300450/SalesDashboard)  
