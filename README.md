@@ -30,5 +30,8 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 
 ## 📊 <a id="tableau"></a> Tableau
 
-### 🧠 Super Store Dashboard  
-     A Data driven Analysis of a synthetic Dataset on Clinical Depression, providing valuable insights into the complex relationships between mental health, lifestyle choices, and socio-economic conditions using SQL.    🔗 [View Dashboard](https://public.tableau.com/app/profile/theodorosmalezidis7413/viz/SuperStoreDashboard_17390157300450/SalesDashboard)  
+- ### 🏪 Billionaires Project  
+     My approach to the well-known Superstore dataset provided by Tableau for developing data visualization skills.    🔗 [\[View Project](https://github.com/theodorosmalezidis/Tableau_Billionaires/blob/main/README.md)](#)    [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/BillionairesDashboard_17390158115780/BillionairesDashboardDetails)
+
+- ### 💰 Super Store Project  
+    This dashboard provides a comprehensive view of the world's billionaires, analyzing their net worth, industries, geographic distribution, and rankings.   🔗 [View Project](https://github.com/theodorosmalezidis/Tableau_Super_Store/blob/main/README.md)   🔗 [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/SuperStoreDashboard_17390157300450/Insights#1) 
