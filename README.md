@@ -35,3 +35,6 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 
 - ### 🏪 Superstore Project  
     My approach to the well-known Superstore dataset provided by Tableau for developing data visualization skills.  🔗 [View Project](https://github.com/theodorosmalezidis/Tableau_Super_Store/blob/main/README.md)   🔗 [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/SuperStoreDashboard_17390157300450/SalesDashboard) 
+
+- ### 🤖 100 Leading AI Companies in 2024   
+    A project inspired by my interest in the stock market, where AI is the key sector driving growth and market hype for the next decade. 🔗 [View Project](https://github.com/theodorosmalezidis/Tableau_Super_Store/blob/main/README.md)   🔗 [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/100LeadingAICompaniesin2024/100LeadingAICompaniesin2024) 
