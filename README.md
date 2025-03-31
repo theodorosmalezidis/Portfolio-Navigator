@@ -4,11 +4,11 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 
 # 🔗 Sections
 
-- [SQL](#sql)
+- [Data Analytics](#sql)
 - [Tableau](#tableau)
 
 
-## 🛢️ <a id="sql"></a> SQL
+## 🛢️ <a id="sql"></a> Data Analytics
 
 
 - ### 🏚️ Affordable Housing Production  
