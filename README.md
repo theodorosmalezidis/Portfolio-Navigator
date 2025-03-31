@@ -5,7 +5,7 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 # 🔗 Sections
 
 - [Data Analytics](#sql)
-- [Data Engineering](#data engineering)
+- [Data Engineering](#data_engineering)
 - [Tableau](#tableau)
 
 
@@ -28,7 +28,7 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
      A Data driven Analysis of a synthetic Dataset on Clinical Depression, providing valuable insights into the complex relationships between mental health, lifestyle choices, and socio-economic conditions using SQL.    🔗 [View Project](https://github.com/theodorosmalezidis/Depression_Data_Analysis)  
 
 
-- ### ⚙️ <a id="data engineering"></a> Data Engineering
+- ## ⚙️ <a id="data engineering"></a> Data Engineering
 
 
 
