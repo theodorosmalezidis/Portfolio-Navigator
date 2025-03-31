@@ -30,6 +30,10 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 
 ## ⚙️ <a id="data_engineering"></a> Data Engineering
 
+- ### 🏚️ DWH Project  
+  In this scenario, I developed an end-to-end on-premise data warehouse tailored for an investment firm, showcasing Data Architecture, ETL Pipelines, and Data Modeling.  🔗 [View Project](https://github.com/theodorosmalezidis/DWH_project)  
+
+
 
 
 ## 📊 <a id="tableau"></a> Tableau
