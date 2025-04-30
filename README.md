@@ -15,6 +15,9 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 - ### 🏚️ Affordable Housing Production  
     Data Exploration and Analysis in SQL for Housing New York plan and the Housing Our Neighbors: A Blueprint for Housing & Homelessness plan.   🔗 [View Project](https://github.com/theodorosmalezidis/Affordable_Housing_Production)  
 
+- ### 📈 Investment Firm Analytics
+     A data analysis project for an investment firm, focusing on business performance metrics across clients, employees, and investment products. The analysis is based on a previously developed on-premise DataWarehouse.  🔗 [View Project](https://github.com/theodorosmalezidis/Investment_Firm_Analytics/tree/main)
+
 - ### 🖥️ Data Jobs Analysis  
     A project designed as a Guide for the dynamic world of Data Analyst roles, uncovering key insights about the current job market through the power of SQL.    🔗 [View Project](https://github.com/theodorosmalezidis/Project_Data_Jobs_Analysis)  
 
