@@ -42,8 +42,8 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 ## 📊 <a id="tableau"></a> Tableau
 
 
-- ### 🤖 Investment Firm Dashboard   
-    This dashboard follows up on my data analytics project for as investment firm. It offers a clear, data-driven view of the firm’s growth, client loyalty, and operational efficiency. 🔗 [View Project](https://github.com/theodorosmalezidis/Investment_Firm_Dashboard/tree/main)   🔗 [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/100LeadingAICompaniesin2024/100LeadingAICompaniesin2024) 
+- ###  📈 Investment Firm Dashboard   
+    This dashboard follows up on my data analytics project for as investment firm. It offers a clear, data-driven view of the firm’s growth, client loyalty, and operational efficiency. 🔗 [View Project](https://github.com/theodorosmalezidis/Investment_Firm_Dashboard)   🔗 [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/100LeadingAICompaniesin2024/100LeadingAICompaniesin2024) 
 
 
 - ### 💰 Billionaires Project  
