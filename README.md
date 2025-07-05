@@ -41,8 +41,13 @@ Every data analyst starts somewhere, and this portfolio reflects my ongoing lear
 
 ## 📊 <a id="tableau"></a> Tableau
 
+
+- ### 🤖 Investment Firm Dashboard   
+    This dashboard follows up on my data analytics project for as investment firm. It offers a clear, data-driven view of the firm’s growth, client loyalty, and operational efficiency. 🔗 [View Project](https://github.com/theodorosmalezidis/Investment_Firm_Dashboard/tree/main)   🔗 [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/100LeadingAICompaniesin2024/100LeadingAICompaniesin2024) 
+
+
 - ### 💰 Billionaires Project  
-     This dashboard provides a comprehensive view of the world's billionaires, analyzing their net worth, industries, geographic distribution, and rankings.  🔗 [View Project](https://github.com/theodorosmalezidis/Tableau_Billionaires/blob/main/README.md)    🔗 [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/BillionairesDashboard_17390158115780/BillionairesDashboardWealthView)
+     This dashboard provides a comprehensive view of the world's billionaires, analyzing their net worth, industries, geographic distribution, and rankings.  🔗 [View Project](https://github.com/theodorosmalezidis/Tableau_Billionaires/blob/main/README.md)    🔗 [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/InvestmentFirmDashboard/OverviewDashboard#1)
 
 - ### 🏪 Superstore Project  
     My approach to the well-known Superstore dataset provided by Tableau for developing data visualization skills.  🔗 [View Project](https://github.com/theodorosmalezidis/Tableau_Super_Store/blob/main/README.md)   🔗 [View Dashboard](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/SuperStoreDashboard_17390157300450/SalesDashboard) 
